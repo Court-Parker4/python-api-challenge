@@ -17,3 +17,15 @@ Second set of reports show the run of linear regression on each relationship, on
 * Southern Hemisphere - Cloudiness (%) vs. Latitude
 * Northern Hemisphere - Wind Speed (mph) vs. Latitude
 * Southern Hemisphere - Wind Speed (mph) vs. Latitude
+-------------------------------------------------------------------
+## Part II - VacationPy
+Utilize weather data to plan future vacations.
+First Heat map
+1. Create a heat map that displays the humidity for every city from the part I
+Second heat map
+2. Dataframe is narrow down to display ideal vacation temperature destinations:
+* A max temperature lower than 80 degrees but higher than 70.
+* Wind speed less than 10 mph.
+* Zero cloudiness.
+Third Heat Map
+3. Nearest hotel locations are added and displayed 
